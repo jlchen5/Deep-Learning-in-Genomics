@@ -25,6 +25,6 @@ For Educators and Students: The notebooks especially would be beneficial for edu
 - Deep Learning: Understanding and implementing various deep learning architectures.
 - Genomic Data Handling: Skills in preprocessing and managing genomic datasets.
 - Model Evaluation: Learning how to interpret model outputs and refine models based on performance metrics.
--
+
 
 Feel free to explore the repository and delve into the specifics of the models and tools provided, as they can be quite resourceful for anyone interested in the intersection of AI and genomics. If you need further detailed analysis or specific information about the contents and their implementation, diving into the individual files and code comments within the repository would be highly beneficial.
